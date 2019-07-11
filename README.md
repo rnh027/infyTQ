@@ -1,1 +1,1 @@
-# infyTQ practise problem
+# infyTQ practice problem
